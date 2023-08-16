@@ -1,0 +1,63 @@
+{
+  "name": "clean-snap-carousel",
+  "version": "1.0.10",
+  "description": "Swiper/carousel component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support. Compatible with Android & iOS.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/ginixsan/react-native-snap-carousel"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "carousel",
+    "slider",
+    "swiper",
+    "flatlist",
+    "scrollview",
+    "parallax",
+    "images",
+    "infinite",
+    "scroll",
+    "scrolling",
+    "items",
+    "edge",
+    "snap",
+    "card",
+    "cards",
+    "stack",
+    "deck",
+    "tinder",
+    "android",
+    "ios",
+    "snapping",
+    "component",
+    "rtl"
+  ],
+  "author": "Gines Sanz <gueshecillo@gmail.com> (github.com/ginixsan)",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-addons-shallow-compare": "15.6.3"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.47.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-config-standard-react": "^13.0.0",
+    "eslint-plugin-import": "^2.28.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-standard": "^5.0.0"
+  },
+  "homepage": "https://github.com/ginixsan/react-native-snap-carousel",
+  "bugs": {
+    "url": "https://github.com/ginixsan/react-native-snap-carousel"
+  },
+  "readmeFilename": "README.md"
+}
